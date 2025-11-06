@@ -1,4 +1,4 @@
-package com.gigtasker.service_registry;
+package com.gigtasker.serviceregistry;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
